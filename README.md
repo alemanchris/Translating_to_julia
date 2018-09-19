@@ -3,7 +3,7 @@ The Following models will be translated:
 1. Hugget Model
 2. Ayagari Model
 3. Krussel Smith
-3. Quadini
+3. Quadrini
 4. Sovereign Debt Model
 5. Laffer curve revisited. Mattias Trabbant. Uhlig
 
